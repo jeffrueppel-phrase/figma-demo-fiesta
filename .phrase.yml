@@ -9,6 +9,6 @@ phrase:
           autotranslate: true
   pull:
     targets:
-      - file: ./locales/<locale_code>.json
+      - file: ./<locale_code>.json
         params:
           file_format: simple_json
