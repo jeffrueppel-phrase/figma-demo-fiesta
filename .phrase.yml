@@ -2,13 +2,13 @@ phrase:
   project_id: 3f7cf65c30ffeabd690ace33cad65c84
   push:
     sources:
-      - file: ./locales/<locale_code>.json
+      - file: ./<locale_code>.json
         params:
           file_format: simple_json
           locale_code: en-US
           autotranslate: true
   pull:
     targets:
-      - file: ./locales/<locale_code>.json
+      - file: ./<locale_code>.json
         params:
           file_format: simple_json
