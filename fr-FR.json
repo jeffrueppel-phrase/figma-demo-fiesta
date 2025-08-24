@@ -17,5 +17,6 @@
   "app.signup": "s'enregistrer",
   "app.signup.password_forgot": "Mot de passe oublié",
   "app.testString": "L’achat de meubles est amusant !",
+  "app.testString2": "Mid-Century Modern est le meilleur look.",
   "app.welcome": "Bienvenue les gars !"
 }
