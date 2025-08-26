@@ -1,0 +1,26 @@
+{
+  "app.cart": "Ajouter au chariot",
+  "app.describe": "Le meilleur endroit pour découvrir de merveilleux meubles pour rendre votre maison belle",
+  "app.get_started": "Démarrer",
+  "app.header": "EMBELLISSEZ VOTRE MAISON",
+  "app.hello": "Salut!",
+  "app.product.description": "Ce support est en bois naturel. Le design est très simple et minimal. C’est vraiment l’une des meilleures pièces pour n’importe quelle maison. Disponible en 3 couleurs différentes, vous pouvez facilement sélectionner la meilleure correspondance pour votre maison.",
+  "app.product.title": "minime",
+  "app.rating_value": "4,5",
+  "app.reviews": {
+    "other": "{{count}} avis"
+  },
+  "app.reviews.other": "{{count}} avis",
+  "app.sign_in": "Connexion",
+  "app.signin.email": "Messagerie",
+  "app.signin.password": "Mot de passe",
+  "app.signup": "s'enregistrer",
+  "app.signup.password_forgot": "Mot de passe oublié",
+  "app.testString2": "Mid-Century Modern est le meilleur look.",
+  "app.testString3": "Découvrez la simplicité scandinave.",
+  "app.testString4": "Emballez vos rêves à plat dès aujourd’hui !",
+  "app.testString5": "Montage requis, aventure garantie.",
+  "app.testString6": "Que la force soit avec vous",
+  "app.testString7": "Restez calme et continuez",
+  "app.welcome": "Bienvenue les gars !"
+}
