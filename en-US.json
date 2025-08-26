@@ -14,12 +14,9 @@
   "app.signin.password": "Password",
   "app.signup": "SIGN UP",
   "app.signup.password_forgot": "Forgot Password ",
-  "app.test1": "Github Webhook Test 1",
-  "app.testString": "Furniture shopping is fun!",
   "app.testString2": "Mid-Century Modern is the best look.",
   "app.testString3": "Discover Scandinavian simplicity.",
   "app.testString4": "Flat-pack your dreams today!",
   "app.testString5": "Assembly required, adventure guaranteed.",
-  "app.welcome": "Welcome boys!",
-  "app.test1": "I love open source and Swedish design."
+  "app.welcome": "Welcome boys!"
 }
