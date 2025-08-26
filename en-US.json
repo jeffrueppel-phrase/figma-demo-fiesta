@@ -7,18 +7,20 @@
   "app.product.description": "This stand is made of natural wood. The design  is very simple and minimal. This is truly one of the best pieces for any home. Available in 3 different colors, you can easily select the best match for your home. ",
   "app.product.title": "Minimal",
   "app.rating_value": "4.5",
-  "app.reviews": {"other": " {{count}} reviews"},
+  "app.reviews": {
+    "other": " {{count}} reviews"
+  },
   "app.reviews.other": " {{count}} reviews",
   "app.sign_in": "SIGN IN",
   "app.signin.email": "Email",
   "app.signin.password": "Password",
   "app.signup": "SIGN UP",
   "app.signup.password_forgot": "Forgot Password ",
+  "app.test1": "Github Webhook Test 1",
   "app.testString": "Furniture shopping is fun!",
   "app.testString2": "Mid-Century Modern is the best look.",
   "app.testString3": "Discover Scandinavian simplicity.",
   "app.testString4": "Flat-pack your dreams today!",
   "app.testString5": "Assembly required, adventure guaranteed.",
-  "app.welcome": "Welcome boys!",
-  "app.test1": "Github Webhook Test 1"
+  "app.welcome": "Welcome boys!"
 }
