@@ -10,7 +10,6 @@
   "app.reviews": {
     "other": "{{count}} rezensionen"
   },
-  "app.reviews.other": "{{count}} rezensionen",
   "app.sign_in": "Anmelden",
   "app.signin.email": "E-Mail",
   "app.signin.password": "Passwort",
@@ -23,5 +22,19 @@
   "app.testString6": "Möge die Macht mit dir sein",
   "app.testString7": "Machen Sie weiter und bewahren Sie Ruhe",
   "app.testString8": "Sein oder nicht sein",
-  "app.welcome": "Herzlich willkommen, Jungs!"
+  "app.welcome": "Herzlich willkommen, Jungs!",
+  "Page 1_en-US... {{count}} reviews": "{{count}} rezensionen",
+  "Page 1_en-US...4.5": "4,5",
+  "Page 1_en-US...Email": "E-Mail",
+  "Page 1_en-US...Forgot Password ": "Passwort vergessen",
+  "Page 1_en-US...Hello!": "Hallo!",
+  "Page 1_en-US...MAKE YOUR HOME MORE BEAUTIFUL": "VERSCHÖNERN SIE IHR ZUHAUSE",
+  "Page 1_en-US...Minimal": "Minimal",
+  "Page 1_en-US...Password": "Passwort",
+  "Page 1_en-US...SIGN UP": "Anmelden",
+  "Page 1_en-US...The best place to discover wonderful furniture to make your home beautiful": "Der beste Ort, um wunderbare Möbel zu entdecken, um Ihr Zuhause schön zu machen",
+  "Page 1_en-US...This stand is made of natural wood. The design  is very simple and minimal. This is truly one of the best pieces for any home. Available in 3 different colors, you can easily select the best match for your home. ": "Dieser Ständer ist aus Naturholz gefertigt. Das Design ist sehr einfach und minimalistisch. Dies ist wirklich eines der besten Stücke für jedes Zuhause. Erhältlich in 3 verschiedenen Farben, können Sie ganz einfach die beste Übereinstimmung für Ihr Zuhause auswählen.",
+  "Page 1_en-US..Group 2.Get Started": "Beginnen",
+  "Page 1_en-US..Group 22.Add to cart": "In den Warenkorb geben",
+  "Page 1_en-US..Group 22.SIGN IN": "Anmelden"
 }
