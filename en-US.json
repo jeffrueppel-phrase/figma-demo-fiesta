@@ -15,5 +15,6 @@
   "app.signin.email": "Email",
   "app.signin.password": "Password",
   "app.signup": "SIGN UP",
-  "app.signup.password_forgot": "Forgot Password "
+  "app.signup.password_forgot": "Forgot Password ",
+  "app.welcome": "Welcome!"
 }
