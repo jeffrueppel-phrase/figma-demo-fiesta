@@ -15,13 +15,5 @@
   "app.signin.email": "Email",
   "app.signin.password": "Password",
   "app.signup": "SIGN UP",
-  "app.signup.password_forgot": "Forgot Password ",
-  "app.testString2": "Mid-Century Modern is the best look.",
-  "app.testString3": "Discover Scandinavian simplicity.",
-  "app.testString4": "Flat-pack your dreams today!",
-  "app.testString5": "Assembly required, adventure guaranteed.",
-  "app.testString6": "May the forth be with you",
-  "app.testString7": "Carry on packages and keep calm",
-  "app.testString8": "To be silly or not to be silly",
-  "app.testString9": "Ikea, some assembly required"
+  "app.signup.password_forgot": "Forgot Password "
 }
