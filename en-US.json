@@ -10,7 +10,6 @@
   "app.reviews": {
     "other": " {{count}} reviews"
   },
-  "app.reviews.other": " {{count}} reviews",
   "app.sign_in": "SIGN IN",
   "app.signin.email": "Email",
   "app.signin.password": "Password",
