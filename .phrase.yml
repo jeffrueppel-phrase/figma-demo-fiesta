@@ -4,11 +4,11 @@ phrase:
     sources:
       - file: ./<locale_code>.strings
         params:
-          file_format: ios_strings
+          file_format: strings
           locale_code: en-US
           autotranslate: false
   pull:
     targets:
       - file: ./<locale_code>.strings
         params:
-          file_format: ios_strings
+          file_format: strings
