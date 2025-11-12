@@ -9,6 +9,6 @@ phrase:
           autotranslate: true
   pull:
     targets:
-      - file: ./<locale_code>.json
+      - file: ./<locale_code>.strings
         params:
           file_format: ios_strings
