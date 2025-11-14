@@ -2,13 +2,13 @@ phrase:
   project_id: 3f7cf65c30ffeabd690ace33cad65c84
   push:
     sources:
-      - file: ./<locale_code>.strings
+      - file: ./<locale_code>.json
         params:
-          file_format: ios_strings
+          file_format: simple_json
           locale_code: en-US
-          autotranslate: true
+          autotranslate: false
   pull:
     targets:
-      - file: ./<locale_code>.strings
+      - file: ./<locale_code>.json
         params:
-          file_format: ios_strings
+          file_format: simple_json
