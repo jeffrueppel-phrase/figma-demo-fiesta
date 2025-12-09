@@ -15,5 +15,19 @@
   "app.signin.password": "パスワード",
   "app.signup": "サインアップ",
   "app.signup.password_forgot": "パスワードを忘れた場合",
-  "app.welcome": "ようこそ!"
+  "app.welcome": "ようこそ!",
+  "Page 1_en-US... {{count}} reviews": "{{count}}件の口コミ",
+  "Page 1_en-US...4.5": "4.5",
+  "Page 1_en-US...Email": "メール",
+  "Page 1_en-US...Forgot Password ": "パスワードを忘れた場合",
+  "Page 1_en-US...Hello!": "こんにちは!",
+  "Page 1_en-US...MAKE YOUR HOME MORE BEAUTIFUL": "あなたの家をもっと美しく",
+  "Page 1_en-US...Minimal": "極小",
+  "Page 1_en-US...Password": "パスワード",
+  "Page 1_en-US...SIGN UP": "サインアップ",
+  "Page 1_en-US...The best place to discover wonderful furniture to make your home beautiful": "あなたの家を美しくする素晴らしい家具を発見するのに最適な場所",
+  "Page 1_en-US...This stand is made of natural wood. The design  is very simple and minimal. This is truly one of the best pieces for any home. Available in 3 different colors, you can easily select the best match for your home. ": "このスタンドは天然木でできています。デザインはとてもシンプルでミニマルです。これはまさに、どの家庭にも最適な1台です。3種類のカラーから、ご家庭に最もマッチするものを簡単に選択できます。",
+  "Page 1_en-US..Group 2.Get Started": "はじめに",
+  "Page 1_en-US..Group 22.Add to cart": "カートに入れる",
+  "Page 1_en-US..Group 22.SIGN IN": "サインイン"
 }
