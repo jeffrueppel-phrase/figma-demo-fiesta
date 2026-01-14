@@ -15,5 +15,6 @@
   "app.signin.password": "Password",
   "app.signup": "SIGN UP",
   "app.signup.password_forgot": "Forgot Password ",
-  "app.welcome": "Welcome!"
+  "app.welcome": "Welcome!",
+  "app.testString": "Happy Wednesday"
 }
