@@ -21,5 +21,6 @@
   "Stride take 3app.password": "Password",
   "Stride take 3app.pwcharacters": "Your chosen password must contain at least 8 characters",
   "Stride take 3app.signup": "Sign Up",
-  "Stride take 3app.username": "Username and alias"
+  "Stride take 3app.username": "Username and alias",
+  "StrideTestString": "Big ol' test string"	
 }
