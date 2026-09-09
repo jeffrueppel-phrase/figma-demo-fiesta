@@ -9,10 +9,12 @@
   "Page 1_en-US...Password": "パスワード",
   "Page 1_en-US...SIGN UP": "サインアップ",
   "Page 1_en-US...The best place to discover wonderful furniture to make your home beautiful": "あなたの家を美しくする素晴らしい家具を発見するのに最適な場所",
+  "Page 1_en-US...This stand is made of natural wood. The design  is very simple and minimal. This is truly one of the best pieces for any home. Available in 3 different colors, you can easily select [...]": "このスタンドは天然木で作られています。デザインは非常にシンプルでミニマルです。これは本当にどんな家庭にとっても最高のアイテムの一つです。3つの異なる色でご用意しており、コレクションから簡単に選べます。",
   "Page 1_en-US...This stand is made of natural wood. The design  is very simple and minimal. This is truly one of the best pieces for any home. Available in 3 different colors, you can easily select the best match for your home. ": "このスタンドは天然木でできています。デザインはとてもシンプルでミニマルです。これはまさに、どの家庭にも最適な1台です。3種類のカラーから、ご家庭に最もマッチするものを簡単に選択できます。",
   "Page 1_en-US..Group 2.Get Started": "はじめに",
   "Page 1_en-US..Group 22.Add to cart": "カートに入れる",
   "Page 1_en-US..Group 22.SIGN IN": "サインイン",
+  "sampleTestString": "これはファイルの末尾に追加されたサンプルテスト文字列です",
   "Stride take 3app.agreement": "Strideの利用規約とプライバシー通知を読んで同意しましたが、気に入らないです。",
   "Stride take 3app.email": "your@email.com",
   "Stride take 3app.email.address": "メールアドレス",
@@ -22,5 +24,6 @@
   "Stride take 3app.pwcharacters": "選択したパスワードには、8文字以上の",
   "Stride take 3app.signup": "サインアップ",
   "Stride take 3app.username": "ユーザー名とエイリアス",
+  "Stride.com (Copy)...I am new text that needs to be translated.": "私は翻訳が必要な新しいテキストです。",
   "StrideTestString": "でテスト文字列をさらに数回更新"
 }

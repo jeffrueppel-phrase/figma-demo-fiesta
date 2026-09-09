@@ -9,10 +9,12 @@
   "Page 1_en-US...Password": "Password",
   "Page 1_en-US...SIGN UP": "SIGN UP",
   "Page 1_en-US...The best place to discover wonderful furniture to make your home beautiful": "The best place to discover wonderful furniture to make your home beautiful",
+  "Page 1_en-US...This stand is made of natural wood. The design  is very simple and minimal. This is truly one of the best pieces for any home. Available in 3 different colors, you can easily select [...]": "This stand is made of natural wood. The design  is very simple and minimal. This is truly one of the best pieces for any home. Available in 3 different colors, you can easily select from our collection.",
   "Page 1_en-US...This stand is made of natural wood. The design  is very simple and minimal. This is truly one of the best pieces for any home. Available in 3 different colors, you can easily select the best match for your home. ": "This stand is made of natural wood. The design  is very simple and minimal. This is truly one of the best pieces for any home. Available in 3 different colors, you can easily select the best match for your home. ",
   "Page 1_en-US..Group 2.Get Started": "Get Started",
   "Page 1_en-US..Group 22.Add to cart": "Add to cart",
   "Page 1_en-US..Group 22.SIGN IN": "SIGN IN",
+  "sampleTestString": "This is a sample test string added to the end of the file",
   "Stride take 3app.agreement": "I have read and agreed to Stride’s Terms of Service and Privacy Notice. But I don’t like them.",
   "Stride take 3app.email": "your@email.com",
   "Stride take 3app.email.address": "Email address",
@@ -22,5 +24,6 @@
   "Stride take 3app.pwcharacters": "Your chosen password must contain at least 8 characters",
   "Stride take 3app.signup": "Sign Up",
   "Stride take 3app.username": "Username and alias",
+  "Stride.com (Copy)...I am new text that needs to be translated.": "I am new text that needs to be translated.",
   "StrideTestString": "lets update the test string a few more times"
 }
